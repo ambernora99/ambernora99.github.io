@@ -1,0 +1,50 @@
+
+h1{
+   color: #ccc;
+   padding: 20px;
+}
+
+.newHeadings{
+  font-family: arial;
+  font-size: 100px;
+  padding: 5px;
+  color: black;
+}
+h1{
+  font-family: arial;
+  font-size: 25px;
+  padding: 5px;
+  color: black;
+}
+
+#lastHeading{
+   font-family: monospace;
+   color: black;
+   font-size: 50px;
+   border: 5px solid #000;
+   background-color: white;
+   padding: 5px;
+}
+
+header{
+  background-color: black;
+  font-family: monospace;
+  color: Blue;
+  width: 400%;
+  height: 50px;
+
+}
+
+footer{
+  background-color: ;
+  width: 400%;
+  height: 50px;
+}
+
+body{
+  justify-content: center;
+  text-align: center;
+  background-color: white;
+  padding: 0;
+  margin: 0;
+}
